@@ -3,6 +3,7 @@
 一款专注于阅读搜索的APP
 
 官网链接：https://www.befunapp.cn
+
 免费下载最新版本：http://app.befunapp.cn/prod/befun/apk/github-5.apk
 
 觉得好用请在右上角点个⭐Star 鼓励一下~
