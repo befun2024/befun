@@ -2,6 +2,8 @@
 
 一款专注于阅读搜索的APP
 
+官网链接：https://www.befunapp.cn
+免费下载最新版本：http://app.befunapp.cn/prod/befun/apk/github-5.apk
 
 应用描述：    
 永久免费，无充值入口，拒绝套路！
