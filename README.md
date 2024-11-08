@@ -5,6 +5,8 @@
 官网链接：https://www.befunapp.cn
 免费下载最新版本：http://app.befunapp.cn/prod/befun/apk/github-5.apk
 
+觉得好用请在右上角点个⭐Star 鼓励一下~
+
 应用描述：    
 永久免费，无充值入口，拒绝套路！
 在这里，您将体验到纯净阅读，给您更沉浸的阅读享受。    
